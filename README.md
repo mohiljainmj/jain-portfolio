@@ -19,6 +19,8 @@ Assignment 2 Visualizing Government Debt
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7676036"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/7679214"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Assignment 3
 
 Assignment 4
