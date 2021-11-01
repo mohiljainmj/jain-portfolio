@@ -13,5 +13,5 @@ The graph below shows a grid line of charts with one time series chart for each 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7676036"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Iteration 2 :
-The below graph shows a scatterplot reprrsentation. I have added a filter that displays the graph countrywise. This allows me to understand the Debt to GDP ratio for different countries (for a particular year). The data was ordered in descending order to draw attention to high values of debt to GDP ratio. Ideally, I would have wanted to have a sequential color scheme throughout the bars, with darker colors indicating higher ratio values and lighter colors indicating low values. But, this was not possible to achieve in Flourish.
+The below graph shows a scatterplot representation. I have added a filter that displays the graph countrywise. This allows me to understand the Debt to GDP ratio for different countries. The years are ordered in ascending order to draw attention to the variation in values of debt to GDP ratio that occured over the years.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7679214"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
