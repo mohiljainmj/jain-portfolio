@@ -17,5 +17,5 @@ The below graph shows a scatterplot representation. I have added a filter that d
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7679214"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-###Summary : 
+### Summary : 
 When considering each type of visualization, it's crucial to consider color as well as the level of "busy-ness." While each way of visualization has benefits and drawbacks, the first and second graphs fall short. The first graph is easy to comprehend. However, it does not account for yearly fluctuations because it is a bar chart. There are a few things that could have been done differently to make the graph convey details more clearly. Firstly, we can remove the background color as it hinders the main focus i.e., the data that is being represented. Secondly, the chart title could have been more clearer as it does not align with the data that is being represented by the bar chart. Lastly, there is no story of what the bar chart is trying to demonstrate to the audience. 
