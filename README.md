@@ -15,6 +15,8 @@ Here's all where my cool work will go.
 
 [Assignment 2 Visualizing Government Debt](page2.md)
 
+[Tableau Exercise](newsviz.md)
+
 Assignment 3
 
 Assignment 4
