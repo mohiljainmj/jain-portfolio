@@ -22,3 +22,17 @@ In my opionion, the following things don’t work / can be improved upon in this
 I created an initital wireframe of my solution, which was a simple pen and paper sketch, as shown below
 ![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/WireFrame_1.jpeg?raw=true)
 
+# Comments
+User 1 - 
+1. Update the labels of the graphs.
+2. Change the name of the dashboard.
+3. If we can change the bar chart colors and add different colors for different types of cases. Blue color looks neutral.
+4. The graph does not talk about the location.
+5. Add numbers at the end of each bar.
+
+User 2 -
+1. Rearrange the graphs.
+2. Add Active Cases and Recovered Cases widget.
+3. Provide a legend for the color used.
+4. Titles need to be aligned with what is being displayed.
+
