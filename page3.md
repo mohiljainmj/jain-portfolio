@@ -20,4 +20,5 @@ In my opionion, the following things don’t work / can be improved upon in this
 
 # Wireframe 
 I created an initital wireframe of my solution, which was a simple pen and paper sketch, as shown below
-![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/WireFrame_1.jpeg)
+![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/WireFrame_1.jpeg?raw=true)
+
