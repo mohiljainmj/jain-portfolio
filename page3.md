@@ -19,4 +19,5 @@ In my opionion, the following things don’t work / can be improved upon in this
 4.  There are too many colors in a single graph, which diverts the attention from the actual data. We can separate them in different graphs by displaying different color schemes. 
 
 # Wireframe 
+I created an initital wireframe of my solution, which was a simple pen and paper sketch, as shown below
 ![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/WireFrame_1.jpeg)
