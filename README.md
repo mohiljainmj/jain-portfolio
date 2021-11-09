@@ -17,10 +17,6 @@ Here's all where my cool work will go.
 
 [Tableau Exercise](newsviz.md)
 
-Assignment 3
-
-Assignment 4
-
-Assignment 5
+[Assignment 3 & 4: Critique by Design](page3.md)
 
 Final Project
