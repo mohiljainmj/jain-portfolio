@@ -64,11 +64,15 @@ After I had finished making the wireframes, I got feedback from two people - Use
 3. Is there anything you find surprising or confusing?<b><i>The arrangement of the graphs.</i></b>
 4. Who do you think is the intended audience for this?<b><i>Healthcare workers, researchers and general population.</i></b>
 5. Is there anything you would change or do differently?<b><i>I would be doing the below mentioned changes.</i></b>
-<b><i> - I would rearrange the graphs. Displaying Confirmed, In Treatment, Recovered and Death.</i></b>
+<b><i> - I would rearrange the graphs. Displaying Confirmed, Recovered, Death and In Treatment.</i></b>
 <b><i> - I would add active cases and recovered cases widgets.</i></b>
 <b><i> - I would provide a legend for the blue color used.</i></b>
 <b><i> - Chart titles need to be aligned with what is being displayed.</i></b>
 
+The above mentioned feedback on my wireframe, made me realize different things that I could improve with my visual. I had incorporated all the changes suggested to my visual accordingly.
+
 # Step five: Build your solution 
+
+This is the visualization that I had redesigned as per my own critique and also the feedback that I had received from the two users I spoke to.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781695"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
