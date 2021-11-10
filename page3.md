@@ -50,15 +50,15 @@ User 1 -
 
 User 2 - 
 
-1. Can you tell me what you think this is? COVID 19 Dashboard
-2. Can you describe to me what this is telling you? It is telling me about the number of COVID 19 cases in the first three months of the pandemic.
-3. Is there anything you find surprising or confusing? The arrangement of the graphs.
-4. Who do you think is the intended audience for this? Healthcare workers, researchers and general population.
-5. Is there anything you would change or do differently? I would be doing the below mentioned changes.
+1. Can you tell me what you think this is? <b><i>COVID 19 Dashboard</i></b>
+2. Can you describe to me what this is telling you?<b><i>It is telling me about the number of COVID 19 cases in the first three months of the pandemic.</i></b>
+3. Is there anything you find surprising or confusing?<b><i>The arrangement of the graphs.</i></b>
+4. Who do you think is the intended audience for this?<b><i>Healthcare workers, researchers and general population.</i></b>
+5. Is there anything you would change or do differently?<b><i>I would be doing the below mentioned changes.
 - I would rearrange the graphs. Displaying Confirmed, In Treatment, Recovered and Death.
 - I would add active cases and recovered cases widgets.
 - I would provide a legend for the blue color used.
-- Chart titles need to be aligned with what is being displayed.
+- Chart titles need to be aligned with what is being displayed.</i></b>
 
 # Step five: Build your solution 
 
