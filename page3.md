@@ -39,4 +39,6 @@ User 2 -
 3. Provide a legend for the color used.
 4. Titles need to be aligned with what is being displayed.
 
+# Step five: Build your solution 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781695"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
