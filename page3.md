@@ -38,19 +38,21 @@ After I finished making the wireframes, I got a feedback from two people - User 
 
 User 1 - 
 
-- Can you tell me what you think this is?
-- COVID 19 Dashboard
+1. Can you tell me what you think this is?
+<ol>
+  <li>COVID 19 Dashboard</li>
+</ol>
 
-- Can you describe to me what this is telling you?
+2. Can you describe to me what this is telling you?
 - It is telling me about the number of covid cases in the first three months of the pandemic.
 
-- Is there anything you find surprising or confusing? 
+3. Is there anything you find surprising or confusing? 
 - The graph does not talk about the location.
 
-- Who do you think is the intended audience for this?
+4. Who do you think is the intended audience for this?
 - Everyone
 
-- Is there anything you would change or do differently?
+5. Is there anything you would change or do differently?
 - Update the titles of the graphs as they sound similar to one another.
 - Update the name of the dashboard.
 - Instead of keeping blue, add different colors for different types of cases. As the color blue looks neutral.
