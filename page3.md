@@ -76,3 +76,5 @@ The above mentioned feedback on my wireframe, made me realize different things t
 This is the visualization that I had redesigned as per my own critique and also the feedback that I had received from the two users I spoke to.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781695"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+In this visualization, I have used stacked bar chart from flourish. From the original data source, I have seggregated the data as per the category into 4 different bar charts. 
