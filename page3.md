@@ -96,10 +96,10 @@ In this visualization, I have used stacked bar chart from flourish. The followin
 - Firstly, this graphs contains four parameters, that are seggregated in to four bar graphs. 
 - Secondly, I made sure that I have clearly elaborated and depicted the numbers well on each of the graph so that the user can easily see the actual absolute value. Even the bar graphs are well structured and that’s why the increasing trend in the number of active cases and number of total confirmed cases and number of deaths can be seen.
 
--> Total Confirmed COVID - 19 Cases : January (5806), February (65596), March (67332)
--> Total Active COVID - 19 Cases : January (5461), February (39572), March (25904)
--> Total Recovered COVID - 19 Cases : January (141), February (23383), March (38557)
--> Total Death COVID - 19 Cases : January (204), February (2641), March (2871)
+-> Total Confirmed COVID - 19 Cases : January (5806), February (65596), March (67332) <br>
+-> Total Active COVID - 19 Cases : January (5461), February (39572), March (25904) <br>
+-> Total Recovered COVID - 19 Cases : January (141), February (23383), March (38557) <br>
+-> Total Death COVID - 19 Cases : January (204), February (2641), March (2871) <br>
 
 - Thirdly, to bring gravity in the picture, I have made sure that the each colour represents the significance of the parameter it represents. This immediately gives a clearly estimate of all the categories with one glance. For instance : Red, represents a critical colour, depicts the number of deaths for COVID 19. Green, represents a positive colour, depicts the number of people recovered for COVID 19. Blue, represents a neutral colour, depicts the number of people confirmed for COVID 19. Light Blue, being under similar undertones as Blue, represents a neutral colour, depicts the number of active cases for COVID 19.
 
