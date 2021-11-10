@@ -50,9 +50,7 @@ Thirdly, I have labelled each of the graphs individually to depict what each gra
 3. People recovered from COVID
 4. People died from COVID
 
-Fourthly, I had used a neutral colour palette - shades of blue to represent the bar graphs. I did this to bring uniformity across all the 4 different categories that I have considered in my bar graph. 
-
-Lastly, I had also changed the main title of the graph from COVID - 19 Global Totals as of March 04,2020 to COVID - 19 Dashboard as of March 2020. I did this so that the reader can immediately understand that this graph represents data around COVID - 19.Thats the reason I selected “COVID-19” as the first keyword of my title to immediately grab the attention of all the mass audience who is actively looking for statistics on this disease. Then I have called it a “Dashboard as of March 2020” as my graphs contain all the 4 parameters – thus giving the impression of a “Dashboard” of the COVID statistics.
+Lastly, I had used a neutral colour palette - shades of blue to represent the bar graphs. I did this to bring uniformity across all the 4 different categories that I have considered in my bar graph. 
 
 ![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/WireFrame_1.jpeg?raw=true)
 
@@ -102,6 +100,8 @@ In this visualization, I have used stacked bar chart from flourish. The followin
 -> Total Death COVID - 19 Cases : January (204), February (2641), March (2871) <br>
 
 - Thirdly, to bring gravity in the picture, I have made sure that the each colour represents the significance of the parameter it represents. This immediately gives a clearly estimate of all the categories with one glance. For instance : Red, represents a critical colour, depicts the number of deaths for COVID 19. Green, represents a positive colour, depicts the number of people recovered for COVID 19. Blue, represents a neutral colour, depicts the number of people confirmed for COVID 19. Light Blue, being under similar undertones as Blue, represents a neutral colour, depicts the number of active cases for COVID 19.
+
+- Lastly, I had also changed the main title of the graph from COVID - 19 Global Totals as of March 04,2020 to COVID - 19 Dashboard as of March 2020. I did this so that the reader can immediately understand that this graph represents data around COVID - 19.Thats the reason I selected “COVID-19” as the first keyword of my title to immediately grab the attention of all the mass audience who is actively looking for statistics on this disease. Then I have called it a “Dashboard as of March 2020” as my graphs contain all the 4 parameters – thus giving the impression of a “Dashboard” of the COVID statistics. 
 
 In my visualizations, I wanted to display the number of cases for all the graphs, but due to the some limitation in flourish, I was not able to display the numbers for the smaller bars. Then, I wanted to keep a single label for X Axis and Y Axis, however, I was unable to implement that in flourish. Lastly, the data that I have used is a subset from John Hopkins COVID - 19 Case Data, as the data source with which the original visualization was created had been replaced and updated. 
 
