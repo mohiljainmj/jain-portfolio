@@ -17,48 +17,57 @@ This visualization was released by Center for Systems Science and Engineering at
 
   
 # Step two: Critique the Data Visualization
+I have considered the below metrics to analyse and critique the data visualization as per the google form:
+- Usefulness
+- Completeness
+- Truthfulness
+- Perceptibility
+- Aesthetics
+- Intuitiveness
+- Engagement
 
-In my opionion, the following things don’t work and can be improved upon in this visual:
-
-1.  I would prefer a bar chart to represent the different categories of cases to depict a clearer picture. For instance separating out all the 4 categories into 4 different bar charts-Confirmed, In treatment, Recovered and Deaths would be logical and visually appealing.
-2.  The 'k' on the Y-Axis can be eliminated and can be added in Y-Axis Label.
-3.  Then, I would prefer to depict the data month wise instead of date wise. This would portray a clear trend(increasing/decreasing) of COVID 19 cases across the globe.
-4.  There are too many colors in a single graph, which diverts the attention from the actual data. We can separate them in different graphs by displaying different color schemes by using a neutral color (for instance blue).
-5. This can also be achieved by using a Pie Chart where instead of classifying it by categories (Death, Confirmed, Recovered, In Treatment) we can classify it on the basis of months (January, February, March).
-6. Lastly, I will specify the absolute value for each category so that the audience has a clearer picture.
+In my opinion, the colour scheme chosen to represent each of the four different categories stood out really well. However, there are a couple of further observations and recommendations that I have entailed below:
+- Usefulness:  The value for each of the date across the 3-month period for the four parameters is not getting conveyed. Because of the wavy trend of the 4 parameters(increasing/decreasing), it is really difficult to understand the actual absolute value for each of the them for any particular date. Thus, In my opinion it is not fulfilling the usefulness metric as the user is unable to analyze the trend and get the absolute value for the parameters defined.
+- Completeness: The graph looks complete, however the I felt that the graph could have been depicted in a simpler way by segregating each of the parameter separately in 4 different graphs
+- Truthfulness: The graph has been picked from a verifiable source and thus is conveying the actual COVID19 statistics till March 2020 for COVID19. However, here, as can be seen for 03-01-2020 and 03-04-2020, there are no “In treatment” COVID 19 cases which could have been elaborated why that is the case
+- Perceptibility: There are a couple of things I observed here. Firstly, the trend graph is built one on top of each other and thus there is no proper demarcation value to understand the difference. After analysing it for quiet some time, I found out that at Some places the trend lines for some parameters , for instance, “in treatment” value had a huge increase in the trend initially, however, then towards the end it became 0. Despite the proper identification of the 4 parameters, it was taking a lot of eye travel to understand them. Secondly, the choice of colours could have been improved. Fourthly, I feel that the depiction across the months rather than dates would give the user better idea of the COVID19 trend.
+- Aesthetics: The graph is labelled well – the chart tittle and the X and Y axis however, I feel there have been a poor choice of color palette. This could have been selected on the basis of “severity” for each of the parameter. For instance, the grave “Deaths” parameter could have been demonstrated in Red. I also feel that a pie chart can be used and instead of classifying it by categories (Death, Confirmed, Recovered, In Treatment) we can classify it on the basis of months (January, February, March).
+- Intuitiveness: The graph was not Intuitive and required extensive time and effort to understand various things which I feel could have been demonstrated in a simpler fashion. I also believe, that any COVID19 statistics is a data which has been used quiet extensively in the field of research and medicine and a graph like this is not bringing out that value to understand the trend.
+- Engagement: The cursory glance at the graph does not capture the eyes instantly. It takes time to get engaged in the graph and understand what it is trying to convey
 
 # Step three: wireframe a solution
 
-I created an initital wireframe of my solution, which was a simple pen and paper sketch, as shown below
+I created an initital wireframe of my solution, which was a simple pen and paper sketch, as shown below. Here I created four different charts to show the number covid cases across January to March 2020.
+
 ![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/WireFrame_1.jpeg?raw=true)
 
 # Step four: Test the solution
 
-After I finished making the wireframes, I got a feedback from two people - User 1 and User 2 and gained invaluable feedback.
+After I had finished making the wireframes, I got feedback from two people - User 1 and User 2 and gained invaluable insights from their opinions.
 
-User 1 - 
+<b> User 1 - </b> 
 
 1. Can you tell me what you think this is? <b><i>COVID 19 Dashboard</i></b>
 2. Can you describe to me what this is telling you? <b><i> It is telling me about the number of covid cases in the first three months of the pandemic.</i></b>
 3. Is there anything you find surprising or confusing? <b><i> The graph does not talk about the location.</i></b>
 4. Who do you think is the intended audience for this? <b><i> Everyone. </i></b>
-5. Is there anything you would change or do differently? <b><i> I would be doing the below mentioned changes. 
-- Update the titles of the graphs as they sound similar to one another.
-- Update the name of the dashboard.
-- Instead of keeping blue, add different colors for different types of cases. As the color blue looks neutral.
-- Add total number of cases for each category at the end of each bar.</i></b>
+5. Is there anything you would change or do differently? <b><i> I would be doing the below mentioned changes.</i></b> 
+<b><i> - Update the titles of the graphs as they sound similar to one another.</i></b>
+<b><i> - Update the name of the dashboard.</i></b>
+<b><i> - Instead of keeping blue, add different colors for different types of cases. As the color blue looks neutral.</i></b>
+<b><i> - Add total number of cases for each category at the end of each bar.</i></b>
 
-User 2 - 
+<b> User 2 - </b> 
 
 1. Can you tell me what you think this is? <b><i>COVID 19 Dashboard</i></b>
 2. Can you describe to me what this is telling you?<b><i>It is telling me about the number of COVID 19 cases in the first three months of the pandemic.</i></b>
 3. Is there anything you find surprising or confusing?<b><i>The arrangement of the graphs.</i></b>
 4. Who do you think is the intended audience for this?<b><i>Healthcare workers, researchers and general population.</i></b>
-5. Is there anything you would change or do differently?<b><i>I would be doing the below mentioned changes.
-- I would rearrange the graphs. Displaying Confirmed, In Treatment, Recovered and Death.
-- I would add active cases and recovered cases widgets.
-- I would provide a legend for the blue color used.
-- Chart titles need to be aligned with what is being displayed.</i></b>
+5. Is there anything you would change or do differently?<b><i>I would be doing the below mentioned changes.</i></b>
+<b><i> - I would rearrange the graphs. Displaying Confirmed, In Treatment, Recovered and Death.</i></b>
+<b><i> - I would add active cases and recovered cases widgets.</i></b>
+<b><i> - I would provide a legend for the blue color used.</i></b>
+<b><i> - Chart titles need to be aligned with what is being displayed.</i></b>
 
 # Step five: Build your solution 
 
