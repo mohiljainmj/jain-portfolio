@@ -41,11 +41,14 @@ The following describe how I went about wireframing the graphs into a version I 
 Firstly, I had split all the four parameters that the original graph described: namely: “Confirmed”, “In Treatment", "Death" and "Recovered" into 4 different bar graphs, each representing each parameter. I made the X and Y axis for each of the graph same with X axis capturing total cases (in 000s) and Y axis capturing months. I believe this approach brought more logical aesthetics to the graph and now the readers would be able to clearly identify the category and its related statistics for the months(upto 4th March 2020).
 Secondly, I feel that graphs represent actual mathematical numbers and figures to represent the data, and that’s why I had eliminated “k” which was been used to represent a thousand in the original graph on the Y axis with “in 000s”. This I believe depicted the raw data well. 
 Thirdly, I have labelled each of the graphs individually to depict what each graph represented. I believe the more the visualization is precise and sublime, the better it is for the reader to infer and scrutinize the graph. As can be seen wireframe these are the 4 graph titles that I have depicted in my version of wireframing :
+
 1. People Getting Treated from COVID 
 2. Confirmed COVID Cases
 3. People recovered from COVID
 4. People died from COVID
+
 Fourthly, I had used a neutral colour palette - shades of blue to represent the bar graphs. I did this to bring uniformity across all the 4 different categories that I have considered in my bar graph. 
+
 Lastly, I had also changed the main title of the graph from COVID - 19 Global Totals as of March 04,2020 to COVID - 19 Dashboard as of March 2020. I did this so that the reader can immediately understand that this graph represents data around COVID - 19.Thats the reason I selected “COVID-19” as the first keyword of my title to immediately grab the attention of all the mass audience who is actively looking for statistics on this disease. Then I have called it a “Dashboard as of March 2020” as my graphs contain all the 4 parameters – thus giving the impression of a “Dashboard” of the COVID statistics.
 
 ![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/WireFrame_1.jpeg?raw=true)
