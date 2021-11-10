@@ -38,8 +38,11 @@ In my opinion, the colour scheme chosen to represent each of the four different 
 # Step three: wireframe a solution
 
 The following describe how I went about wireframing the graphs into a version I feel was more visually appealing. 
+
 Firstly, I had split all the four parameters that the original graph described: namely: “Confirmed”, “In Treatment", "Death" and "Recovered" into 4 different bar graphs, each representing each parameter. I made the X and Y axis for each of the graph same with X axis capturing total cases (in 000s) and Y axis capturing months. I believe this approach brought more logical aesthetics to the graph and now the readers would be able to clearly identify the category and its related statistics for the months(upto 4th March 2020).
+
 Secondly, I feel that graphs represent actual mathematical numbers and figures to represent the data, and that’s why I had eliminated “k” which was been used to represent a thousand in the original graph on the Y axis with “in 000s”. This I believe depicted the raw data well. 
+
 Thirdly, I have labelled each of the graphs individually to depict what each graph represented. I believe the more the visualization is precise and sublime, the better it is for the reader to infer and scrutinize the graph. As can be seen wireframe these are the 4 graph titles that I have depicted in my version of wireframing :
 
 1. People Getting Treated from COVID 
@@ -55,7 +58,7 @@ Lastly, I had also changed the main title of the graph from COVID - 19 Global To
 
 # Step four: Test the solution
 
-After I had finished making the wireframes, I got feedback from two people - User 1 and User 2 and gained invaluable insights from their opinions.
+After I had finished making the wireframes, I got feedback from two people - User 1 and User 2 and gained valuable insights from their opinions.
 
 <b> User 1 - </b> 
 
@@ -81,12 +84,25 @@ After I had finished making the wireframes, I got feedback from two people - Use
 <b><i> - I would provide a legend for the blue color used.</i></b>
 <b><i> - Chart titles need to be aligned with what is being displayed.</i></b>
 
-The above mentioned feedback on my wireframe, made me realize different things that I could improve with my visual. I had incorporated all the changes suggested to my visual accordingly.
+The above mentioned feedback on my wireframe, made me realize different things that I could improve with my visualization. I had incorporated all the changes suggested to my visualization accordingly.
 
 # Step five: Build your solution 
 
-This is the visualization that I had redesigned as per my own critique and also the feedback that I had received from the two users I spoke to.
+After incorporating the feedbacks received from the users and wireframing the original graph, I redesigned my visualization as the following :
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781695"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-In this visualization, I have used stacked bar chart from flourish. From the original data source, I have seggregated the data as per the category into 4 different bar charts. 
+In this visualization, I have used stacked bar chart from flourish. The following are the changes that are entailed as below - 
+- Firstly, this graphs contains four parameters, that are seggregated in to four bar graphs. 
+- Secondly, I made sure that I have clearly elaborated and depicted the numbers well on each of the graph so that the user can easily see the actual absolute value. Even the bar graphs are well structured and that’s why the increasing trend in the number of active cases and number of total confirmed cases and number of deaths can be seen.
+
+-> Total Confirmed COVID - 19 Cases : January (5806), February (65596), March (67332)
+-> Total Active COVID - 19 Cases : January (5461), February (39572), March (25904)
+-> Total Recovered COVID - 19 Cases : January (141), February (23383), March (38557)
+-> Total Death COVID - 19 Cases : January (204), February (2641), March (2871)
+
+- Thirdly, to bring gravity in the picture, I have made sure that the each colour represents the significance of the parameter it represents. This immediately gives a clearly estimate of all the categories with one glance. For instance : Red, represents a critical colour, depicts the number of deaths for COVID 19. Green, represents a positive colour, depicts the number of people recovered for COVID 19. Blue, represents a neutral colour, depicts the number of people confirmed for COVID 19. Light Blue, being under similar undertones as Blue, represents a neutral colour, depicts the number of active cases for COVID 19.
+
+In my visualizations, I wanted to display the number of cases for all the graphs, but due to the some limitation in flourish, I was not able to display the numbers for the smaller bars. Then, I wanted to keep a single label for X Axis and Y Axis, however, I was unable to implement that in flourish. Lastly, the data that I have used is a subset from John Hopkins COVID - 19 Case Data, as the data source with which the original visualization was created had been replaced and updated. 
+
+
