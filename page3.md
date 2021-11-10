@@ -37,3 +37,5 @@ User 2 -
 4. Titles need to be aligned with what is being displayed.
 
 DataSource - https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data#daily-reports-csse_covid_19_daily_reports
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7781695"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
