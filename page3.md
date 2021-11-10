@@ -3,12 +3,19 @@
 # Step one: Find a Data Visualization
 
 # Introduction 
-I decided to critique and redesign the visual on the following link: [COVID - 19 cases around the globe](https://quinterojs.medium.com/covid-19-infection-growth-rates-lagged-mortality-rates-and-other-interesting-statistics-ff39f5408a21) The reason I chose this visualization because I felt that COVID - 19 has become an integral part of our lifestyle. A person for once can get out of his/her house without a mobile phone, but he/she cannot leave the house without a mask and a sanitizer. This visualization was released by Center for Systems Science and Engineering at John Hopkins University. The source for this visualization was built using data from multiple sources, including the WHO, CDC, ECDC, NHC, and DXY. On further analysis, I found out that the visualization had missed out certain crucial information firstly, the value for each of the date across the 3-month period for the four parameters is not getting conveyed. Because of the wavy trend of the 4 parameters(increasing/decreasing), it gets really difficult to understand the actual absolute value for each of the them for any particular date. 
 
-The following is a moment-in-time analysis of the coronavirus as of March 4th, 2020. The initial visual is shown below:
+The graph that I have selected for this assignment to critique and redesign is called [COVID19 Global Totals as of March 04,2020](https://quinterojs.medium.com/covid-19-infection-growth-rates-lagged-mortality-rates-and-other-interesting-statistics-ff39f5408a21). This graph is available on the following link : 
 
 ![alt text](https://miro.medium.com/max/2000/1*LsE11cXBSt43Q9peeMW-WA.png)
+ 
+This visualization was released by Center for Systems Science and Engineering at John Hopkins University. This visualization has been derived by leveraging data from multiple sources, including the World Heakth Organization, Centers for Disease Control and Prevention, European Centre for Disease Prevention and Control and  National Hurricane Center. The following points entail why I selected to critique this graph:
 
+1. The graph is used to represent one of the most critical, life wreaking and havoc creating disease that hit our world since 2019: COVID19. Initially thought of as just a common flu, this disease completely turned the historically timeline into two categories- pre and post pandemic due to the deadly nature of this disease. Being on its receptive end, all our families across have been affected by this, including mine too. Despite scientific advancements, we released that pandemic is above science and research when it comes to human life.
+2. COVID 19 completely transformed the way we live our lives now. Quarantine, vaccines, lock downs, social distancing etc are a things commonly heard and practiced in every household these days.  Sanitisers and masks are part of our daily attire now.
+3. This graph depicts statics around the that are commonly used my medical staff, researchers, health care organizations, government of the countries, private industries and firms, aviation industries, citizens of the nations and the like.
+4. On a perfunctory glance, I could see that though this data represents critical statistics, however, it misses to depict them in a clearly pattern. For instance, firstly, the value for each of the date across the 3-month period for the four parameters is not getting conveyed. Because of the wavy trend of the 4 parameters(increasing/decreasing), it gets really difficult to understand the actual absolute value for each of the them for any particular date.
+
+  
 # Step two: Critique the Data Visualization
 
 In my opionion, the following things don’t work and can be improved upon in this visual:
@@ -20,24 +27,56 @@ In my opionion, the following things don’t work and can be improved upon in th
 5. This can also be achieved by using a Pie Chart where instead of classifying it by categories (Death, Confirmed, Recovered, In Treatment) we can classify it on the basis of months (January, February, March).
 6. Lastly, I will specify the absolute value for each category so that the audience has a clearer picture.
 
-# Wireframe 
+# Step three: wireframe a solution
+
 I created an initital wireframe of my solution, which was a simple pen and paper sketch, as shown below
 ![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/WireFrame_1.jpeg?raw=true)
 
 # Step four: Test the solution
 
-User 1 - 
-1. Update the labels of the graphs.
-2. Change the name of the dashboard.
-3. If we can change the bar chart colors and add different colors for different types of cases. Blue color looks neutral.
-4. The graph does not talk about the location.
-5. Add numbers at the end of each bar.
+After I finished making the wireframes, I got a feedback from two people - User 1 and User 2 and gained invaluable feedback.
 
-User 2 -
-1. Rearrange the graphs.
-2. Add Active Cases and Recovered Cases widget.
-3. Provide a legend for the color used.
-4. Titles need to be aligned with what is being displayed.
+User 1 - 
+
+- Can you tell me what you think this is?
+- COVID 19 Dashboard
+
+- Can you describe to me what this is telling you?
+- It is telling me about the number of covid cases in the first three months of the pandemic.
+
+- Is there anything you find surprising or confusing? 
+- The graph does not talk about the location.
+
+- Who do you think is the intended audience for this?
+- Everyone
+
+- Is there anything you would change or do differently?
+- Update the titles of the graphs as they sound similar to one another.
+- Update the name of the dashboard.
+- Instead of keeping blue, add different colors for different types of cases. As the color blue looks neutral.
+- Add total number of cases for each category at the end of each bar.
+
+User 2 - 
+
+- Can you tell me what you think this is?
+- COVID 19 Dashboard
+
+- Can you describe to me what this is telling you?
+- It is telling me about the number of COVID 19 cases in the first three months of the pandemic.
+
+- Is there anything you find surprising or confusing? 
+- The arrangement of the graphs.
+
+- Who do you think is the intended audience for this?
+- Healthcare workers, researchers and general population.
+
+- Is there anything you would change or do differently?
+- I would rearrange the graphs. Displaying Confirmed, In Treatment, Recovered and Death.
+- I would add active cases and recovered cases widgets.
+- I would provide a legend for the blue color used.
+- Chart titles need to be aligned with what is being displayed.
+
+
 
 # Step five: Build your solution 
 
