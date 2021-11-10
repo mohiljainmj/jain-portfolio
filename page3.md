@@ -38,21 +38,11 @@ After I finished making the wireframes, I got a feedback from two people - User 
 
 User 1 - 
 
-1. Can you tell me what you think this is?
-<ol>
-  <li>COVID 19 Dashboard</li>
-</ol>
-
-2. Can you describe to me what this is telling you?
-- It is telling me about the number of covid cases in the first three months of the pandemic.
-
-3. Is there anything you find surprising or confusing? 
-- The graph does not talk about the location.
-
-4. Who do you think is the intended audience for this?
-- Everyone
-
-5. Is there anything you would change or do differently?
+1. Can you tell me what you think this is? COVID 19 Dashboard
+2. Can you describe to me what this is telling you? It is telling me about the number of covid cases in the first three months of the pandemic.
+3. Is there anything you find surprising or confusing? The graph does not talk about the location.
+4. Who do you think is the intended audience for this? Everyone
+5. Is there anything you would change or do differently? I would be doing the below mentioned changes.
 - Update the titles of the graphs as they sound similar to one another.
 - Update the name of the dashboard.
 - Instead of keeping blue, add different colors for different types of cases. As the color blue looks neutral.
@@ -60,25 +50,15 @@ User 1 -
 
 User 2 - 
 
-- Can you tell me what you think this is?
-- COVID 19 Dashboard
-
-- Can you describe to me what this is telling you?
-- It is telling me about the number of COVID 19 cases in the first three months of the pandemic.
-
-- Is there anything you find surprising or confusing? 
-- The arrangement of the graphs.
-
-- Who do you think is the intended audience for this?
-- Healthcare workers, researchers and general population.
-
-- Is there anything you would change or do differently?
+1. Can you tell me what you think this is? COVID 19 Dashboard
+2. Can you describe to me what this is telling you? It is telling me about the number of COVID 19 cases in the first three months of the pandemic.
+3. Is there anything you find surprising or confusing? The arrangement of the graphs.
+4. Who do you think is the intended audience for this? Healthcare workers, researchers and general population.
+5. Is there anything you would change or do differently? I would be doing the below mentioned changes.
 - I would rearrange the graphs. Displaying Confirmed, In Treatment, Recovered and Death.
 - I would add active cases and recovered cases widgets.
 - I would provide a legend for the blue color used.
 - Chart titles need to be aligned with what is being displayed.
-
-
 
 # Step five: Build your solution 
 
