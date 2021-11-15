@@ -7,13 +7,31 @@ For my final project I thought of talking about what is happiness and how import
 
 #### Structure of the Project : 
 1. What is happiness and how is it measured ?
-2. What is happiness index ?
-3. How important is happiness index for a country ?
-4. Factors affecting the happiness of a country 
-5. Draw a comparison between top and bottom country.
-6. How can this be imporved ?
+2. What is happiness index and how important is happiness index for a country ?
+3. Factors affecting the happiness of a country 
+4. Draw a comparison between top and bottom country.
+5. How can this be imporved ?
+6. Concluding thoughts 
 
-# Sketches 
+# Sketches :
+1.	What is Happiness Index? 
+2.	Importance of Happiness Index
+3.	Rankings of the countries based on Happiness Index
+4.	What are the factors that are not included in the Happiness Index?
+5.	Conclusion
+
+![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/Screen%201.jpeg?raw=true)
+![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/Screen%202.jpeg?raw=true)
+![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/Screen%203.jpeg?raw=true)
+![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/Screen%204.jpeg?raw=true)
+![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/Screen%205.jpeg?raw=true)
+
+# Data :
+I will be gathering the data from the below mentioned data sources - 
+1. https://en.wikipedia.org/wiki/World_Happiness_Report
+2. https://worldhappiness.report/ed/2021/
+3. https://ourworldindata.org/happiness-and-life-satisfaction
+4. https://www.kaggle.com/unsdsn/world-happiness
 
 # Method and Medium :
-
+I plan on using Shorthand for this project. Along with Shorthand, I will be using visualizing tools such as Tableau and Flourish to support my thought process.
