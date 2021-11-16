@@ -8,18 +8,13 @@ For my final project I thought of talking about what is happiness and how import
 #### Structure of the Project : 
 1. What is happiness and how is it measured ?
 2. What is happiness index and how important is happiness index for a country ?
-3. Factors affecting the happiness of a country 
-4. Draw a comparison between top and bottom country.
-5. How can this be imporved ?
-6. Concluding thoughts 
+3. Rankings of the countries based on Happiness Index
+4. Factors affecting the happiness of a country 
+5. Draw a comparison between top and bottom country.
+6. How can this be improved ? What are the factors that are not included in the Happiness Index?
+7. Concluding thoughts 
 
 # Sketches :
-1.	What is Happiness Index? 
-2.	Importance of Happiness Index
-3.	Rankings of the countries based on Happiness Index
-4.	What are the factors that are not included in the Happiness Index?
-5.	Conclusion
-
 ![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/Screen%201.jpeg?raw=true)
 ![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/Screen%202.jpeg?raw=true)
 ![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/main/Screen%203.jpeg?raw=true)
