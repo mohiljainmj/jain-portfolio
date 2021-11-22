@@ -20,3 +20,5 @@ Here's all where my cool work will go.
 [Assignment 3 & 4: Critique by Design](page3.md)
 
 [Final Project : Part 1](finalproject1.md)
+
+[Final Project : Part 2](finalproject2.md)
