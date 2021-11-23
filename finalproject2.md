@@ -25,7 +25,7 @@ Q5 - Is there anything you would change or do differently?
 
 ## Person 2 - 
 Q1 - Can you tell me what you think this is?
-<br>Response - 1.	This is a report that is trying to tell its audience about how happiness can be measured. It tells us about happiness index a measure that uses several factors like family, freedom, economic prosperity etc. to attach a mean value to happiness. It shows some graphs to make a point.
+<br>Response - This is a report that is trying to tell its audience about how happiness can be measured. It tells us about happiness index a measure that uses several factors like family, freedom, economic prosperity etc. to attach a mean value to happiness. It shows some graphs to make a point.
 
 Q2 - Can you describe to me what this is telling you?
 <br>Response - It shows us the values of happiness index over various years across the world. it also uses graphs and maps to further elaborate on specific countries and shows us global average. It also calls to question if happiness index is an accurate measure of happiness.
