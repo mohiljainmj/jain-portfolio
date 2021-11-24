@@ -57,7 +57,6 @@ Q4 - Who do you think is the intended audience for this?
 Q5 - Is there anything you would change or do differently?
 <br>Response -  
 1. In the global happiness trends map, you can have a gradient heat map for the countries with varying indexes.
-2. You could provide some other filters like top 10 countries with a high index or with a low index
-3. For spot evaluations, for family, there is no bar for Afghanistan. Does that mean that the relative number of families is way less as compared to the other and hence no significant data or anything else?
-4. For spot evaluations, you could utilize composition charts as well since you have three separate entities to compare for each parameter. 
+2. For spot evaluations, for family, there is no bar for Afghanistan. Does that mean that the relative number of families is way less as compared to the other and hence no significant data or anything else?
 
+I have incorporated the feedbacks received from the users and had redesigned my visualization.
