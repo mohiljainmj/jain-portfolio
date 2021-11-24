@@ -58,5 +58,15 @@ Q5 - Is there anything you would change or do differently?
 <br>Response -  
 1. In the global happiness trends map, you can have a gradient heat map for the countries with varying indexes.
 2. For spot evaluations, for family, there is no bar for Afghanistan. Does that mean that the relative number of families is way less as compared to the other and hence no significant data or anything else?
+3. Why did the graph rise across the last two years despite the pandemic and losses? - I was looking for an explanation to that.
+4. Usage of some more visualizations to support the context for example - In the call for action add a few visuals to support the actions.
 
-I have incorporated the feedbacks received from the users and had redesigned my visualization.
+I have incorporated the following feedbacks received from the users and had redesigned my visualization :
+1. I have picked up country level examples and did a comparison on the factors that were affecting the Happiness Index for those countries.
+2. In the global happiness trends map, I have added gradient heat map for the countries with varying indexes.
+3. I have changed the bar graph and added a line graph depciting the significant data.
+4. I have provided a conclusion for each graph and cited my conclusion on the basis of my findings.
+
+I need to incorporate the below mentioned feedbacks for the Final Presentation :
+1. I need to provide some more context as to why there is a increase in global trends graph.
+2. I need to add visualizations for Call for Action.
