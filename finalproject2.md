@@ -4,7 +4,10 @@ For wireframes and storyboarding I have used ShortHand. The same can be found at
 
 # User research and interviews
 ### Target Audience
-Since my project talks about the happiness of a country is and the factors that are involved in capturing a holistic view of a country's happiness? The target audience of my project is everyone. 
+
+Through my project, I thought of talking about what is happiness and how does one calculates the happiness of a nation? Initially, while researching about the project, this seemed like an odd question to talk about but, in the recent surveys conducted by World Happiness Report the world happiness that we know about has fallen drastically due to many factors over the years. The United Nations along with Private Organisations, Non-profits, and Governments have worked together to improve the world and provide platforms for countries to uplift entire communities. Happiness can and should be perceived as a leading cause of success, prosperity, and in some cases even longevity. But there are no known United Nations efforts directed to improve or maintain the Happiness Indices of countries. I will be talking about two countries in my project, Finland and Afghanistan, where Finland is ranked first and Afghanistan is ranked last in the recent survey conducted by World Happiness Report. I will be covering the factors that are involved in such a drastic decline and my target audience would be everyone around the globe. For my interview, I had connected with people from different nationalities and have taken their views on this pressing issue. I aimed to get as many diverse demographics as I could for the interview. I had reached out to my colleagues and their friends.
+
+# Interview 
 
 ## Person 1 - 
 Q1 - Can you tell me what you think this is?
@@ -57,11 +60,4 @@ Q5 - Is there anything you would change or do differently?
 2. You could provide some other filters like top 10 countries with a high index or with a low index
 3. For spot evaluations, for family, there is no bar for Afghanistan. Does that mean that the relative number of families is way less as compared to the other and hence no significant data or anything else?
 4. For spot evaluations, you could utilize composition charts as well since you have three separate entities to compare for each parameter. 
-
-
-
-
-
-
-
 
