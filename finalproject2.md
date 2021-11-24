@@ -68,5 +68,5 @@ I have incorporated the following feedbacks received from the users and had rede
 4. I have provided a conclusion for each graph and cited my conclusion on the basis of my findings.
 
 I need to incorporate the below mentioned feedbacks for the Final Presentation :
-1. I need to provide some more context as to why there is a increase in global trends graph.
+1. I need to provide some more context as to why there is an increase in global trends graph.
 2. I need to add visualizations for Call for Action.
