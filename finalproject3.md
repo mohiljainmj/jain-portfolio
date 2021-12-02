@@ -1,3 +1,3 @@
 # Previous 
-Here is a link to my Part 1 
-Here is a link to my Part 2
+[Part I: The Idea](finalproject1.md) 
+[Part II: Design and user research](finalproject2.md)
