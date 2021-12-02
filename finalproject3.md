@@ -1,7 +1,7 @@
 # Final Project Overview - 
 The final project provided me an opportunity to put everything that I have learned so far into action.  The primary goal of the final project was to help me understand how the targeted audience would react to my suggested idea and how well I can communicate my idea to the audience at an appropriate level, and telling the story using data visualization methods that are meaningful. 
 
-# Glimpse to what I have done so far
+# Glimpse To What I Have Done So Far
 ## Links to my previous parts of the Project
 
 ### Part 1: The Idea 
@@ -27,6 +27,20 @@ Part 2 of my final project I had touchbase the below mentioned points.
 ### Part 3 Final Data Story 
 
 #### Key Changes Made -
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+
+#### Link to the Final Story
+Click [here](https://carnegiemellon.shorthandstories.com/happiness-index-understanding-how-happy-a-nation-is/index.html) to view the Final Project.
 
 
 
