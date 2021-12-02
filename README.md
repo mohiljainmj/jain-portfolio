@@ -22,3 +22,5 @@ Here's all where my cool work will go.
 [Final Project : Part 1](finalproject1.md)
 
 [Final Project : Part 2](finalproject2.md)
+
+[Final Project : Part 3](finalproject3.md)
