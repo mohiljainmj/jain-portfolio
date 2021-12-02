@@ -1,3 +1,3 @@
 # Previous 
-[Part I: The Idea](finalproject1.md) 
+[Part I: The Idea](finalproject1.md) <br>
 [Part II: Design and user research](finalproject2.md)
