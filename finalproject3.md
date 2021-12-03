@@ -37,7 +37,7 @@ Part 2 of my final project I had touchbase the below mentioned points.
 7. Provided some context and correlation between COVID and happiness score.
 
 
-#### Link to the Final Story
+# Link to the Final Story
 Click [here](https://carnegiemellon.shorthandstories.com/happiness-index-understanding-how-happy-a-nation-is/index.html) to view the Final Project.
 
 
