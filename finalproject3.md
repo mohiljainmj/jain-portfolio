@@ -42,7 +42,7 @@ An important design decision I made was that of using a background of black colo
 
 #### Adjustments to the story -
 
-I made sure that I showed the data the way it is i.e. I did not manipulate the data. In addition to this, I also realized that I could tell a better story if I were to add a personal touch so I had added a view visualizations from that I had taken personally. I made sure to relate them with the on-going pandemic. 
+I made sure that I showed the data the way it is i.e. I did not manipulate the data. In addition to this, I also realized that I could tell a better story if I were to add a personal touch so I had added a view visualizations that I had taken personally. I made sure to relate them with the theme of my story.
 
 # Link to the Final Story
 
@@ -63,6 +63,3 @@ Click [here](https://carnegiemellon.shorthandstories.com/happiness-index-underst
 11. https://worldhappiness.report/ed/2021/
 12. https://ourworldindata.org/happiness-and-life-satisfaction
 13. https://www.kaggle.com/unsdsn/world-happiness 
-
-
-
