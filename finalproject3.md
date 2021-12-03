@@ -1,5 +1,5 @@
 # Final Project Overview - 
-The final project provided me an opportunity to put everything that I have learned so far into action.  The primary goal of the final project was to help me understand how the targeted audience would react to my suggested idea and how well I can communicate my idea to the audience at an appropriate level, and telling the story using data visualization methods that are meaningful. 
+The final project provided me with an opportunity to put everything that I have learned so far into action.  The primary goal of the final project was to help me understand how the targeted audience would react to my suggested idea and how well I can communicate my idea to the audience at an appropriate level, and tell the story using data visualization methods that are meaningful. 
 
 # Glimpse To What I Have Done So Far
 ## Links to my previous parts of the Project
@@ -27,16 +27,14 @@ Part 2 of my final project I had touchbase the below mentioned points.
 ### Part 3 Final Data Story 
 
 #### Key Changes Made -
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+
+1. One of the feedback, that I had received was that there was no connection between the happiness index and the country that has a high/low happiness score. So to amend that, I had changed the theme of my story to cover the COVID Pandemic aspect. Now, I am comparing the Happiness Index for all the countries since 2019 and concluding whether Happiness Index is the correct measure to calculate a nation's happiness?
+2. Followed a consistent color schemes. Initially, in Part 2, I had all kinds of colors included in my story. However, one of the users suggested to follow a uniform color scheme, so instead of using bright colorful images and colors. I had used a combination of Black, White, Grey & Red, to highlight the issue and keep the audience attention till the end of the presentation.
+3. I had certain visuals that had copyright issues, due to which I had to remove those visuals and look out for alternatives that had no such issues.
+4. Initially, for Call to Action, I had just added the Petition Link, however, I had completely redesigned the page and added a few lines about the petition. Furthermore, I had also added a self-awareness campaign that I had thought of initiating to make it look more individual-centric.
+5. Changed the title of the graphs to indicate the point I am trying to make.
+6. Corrected the graph and visual size issues : I was able to correct the sizing issues in Flourish using custom width sizing.
+7. Provided some context and correlation between COVID and happiness score.
 
 
 #### Link to the Final Story
