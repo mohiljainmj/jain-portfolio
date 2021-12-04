@@ -3,7 +3,9 @@ This is my public portfolio for Telling Stories with Data at CMU !
 
 # Background
 
-![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/be385eea08dbcc9d05abd4c89afca9dcd25bd630/1.jpeg?raw=true){:height="50%" width="50%"}
+
+
+<img src="https://github.com/mohiljainmj/jain-portfolio/blob/be385eea08dbcc9d05abd4c89afca9dcd25bd630/1.jpeg?raw=true" width="400" height="790">
 
 
 Hello! I am Mohil (he/his/him) from India. I am a first year Information System Management student at Carnegie Mellon University. Before pursuing my master's, 
