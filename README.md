@@ -3,6 +3,9 @@ This is my public portfolio for Telling Stories with Data at CMU !
 
 # Background
 
+![alt text](https://github.com/mohiljainmj/jain-portfolio/blob/be385eea08dbcc9d05abd4c89afca9dcd25bd630/1.jpeg?raw=true){:height="50%" width="50%"}
+
+
 Hello! I am Mohil (he/his/him) from India. I am a first year Information System Management student at Carnegie Mellon University. Before pursuing my master's, 
 I worked at Deloitte as a Technical Consultant. In this role, I have helped stakeholders identify potential areas of Improvement and build an innovative end-to-end solution for critical business problems. My areas of expertise include working on Microsoft Dynamics CRM and Microsoft Dynamics ERP in the public sector domain. I have also led and developed a product for a US-based regulatory body.  I have driven several initiatives for streamlining and automation of routine administrative tasks. This untapped a newfound passion for product management and business consulting. Fun fact, I love to meet new people and work for various social causes by doing my part in giving back to society.
 
